@@ -10,6 +10,15 @@
     align-items: center;
 }
 
+.subtitle{
+    margin-top: 50px;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .reset {
     width: 700px;
     height: 100px;
@@ -39,4 +48,8 @@
     width: 564px;
     display: flex;
     margin: auto;
+}
+
+.boxes img {
+    margin: 50px 50px;
 }
